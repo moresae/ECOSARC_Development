@@ -1492,10 +1492,3 @@ for index in range(trainRF_mask.shape[0]):
     #plt.title(str(index))
     #plt.pause(0.1) # Animated plot loop as in matlab
 '''
-
-
-
-
-
-
-
