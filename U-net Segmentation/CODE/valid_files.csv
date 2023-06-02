@@ -1,0 +1,550 @@
+idex,filename
+0,2907_Alta_Dos tercios muslo inferior_MID_2
+1,2907_Alta_Dos tercios muslo inferior_MII_3
+2,2907_Ingreso_Dos tercios muslo inferior_MID_3
+3,2908_Alta_Dos tercios muslo inferior_MID_1
+4,2908_Ingreso_Dos tercios muslo medio_MII_2
+5,2909_Alta_Dos tercios muslo inferior_MID_2
+6,2910_Alta_Dos tercios muslo inferior_MID_2
+7,2910_Alta_Muslo medio_MII_5
+8,2910_Ingreso_Dos tercios muslo inferior_MII_2
+9,2910_Ingreso_Muslo medio_MID_4
+10,2912_Alta_Dos tercios muslo inferior_MID_3
+11,2912_Ingreso_Dos tercios muslo inferior_MII_2
+12,2913_Ingreso_Muslo medio_MII_2
+13,2913_Ingreso_Muslo medio_MII_4
+14,2914_Alta_Muslo medio_MII_2
+15,2914_Ingreso_Muslo medio_MII_3
+16,2915_Ingreso_Dos tercios muslo inferior_MII_2
+17,2917_Ingreso_Dos tercios muslo medio_MID_2
+18,2915_Ingreso_Muslo medio_MII_3
+19,2920_Ingreso_Dos tercios muslo inferior_MID_3
+20,2920_Ingreso_Dos tercios muslo inferior_MII_3
+21,2921_Ingreso_Dos tercios muslo_MID_2
+22,2924_Ingreso_Dos tercios muslo inferior_MID_2
+23,2925_Alta_Dos tercios muslo inferior_MII_2
+24,2926_Alta_Dos tercios muslo inferior_MII_2
+25,2926_Alta_Muslo medio_MID_3
+26,2926_Alta_Muslo medio_MII_3
+27,2927_Alta_Dos tercios muslo inferior_MII_2
+28,2932_Alta_Dos tercios muslo medio_MII_2
+29,3002_Alta_Dos tercios muslo inferior_MII_1
+30,3003_Ingreso_Dos tercios muslo inferior_MID_1
+31,3004_Ingreso_Dos tercios muslo inferior_MID_1
+32,3005_Ingreso_Dos tercios muslo inferior_MID_1
+33,3005_Ingreso_Dos tercios muslo inferior_MII_1
+34,3007_Alta_Dos tercios muslo inferior_MII_1
+35,3017_Ingreso_Muslo medio_MID_1
+36,3018_Ingreso_Dos tercios muslo inferior_MID_1
+37,3018_Ingreso_Dos tercios muslo inferior_MII_1
+38,3019_Ingreso_Dos tercios muslo inferior_MID_3
+39,3020_Ingreso_Dos tercios muslo inferior_MID_2
+40,3022_Alta_Muslo medio_MII_1
+41,3106_alta_muslo medio_MID_2
+42,3205_Ingreso_Dos tercios muslo inferior_MID_1
+43,3215_Alta_Dos tercios muslo inferior_MII_1
+44,3215_Ingreso_Dos tercios muslo inferior_MID_1
+45,3215_Ingreso_Dos tercios muslo inferior_MII_1
+46,3218_Alta_Dos tercios muslo inferior_MID_2
+47,3218_Alta_Dos tercios muslo inferior_MII_1
+48,3218_Ingreso_Dos tercios muslo inferior_MID_1
+49,3218_Ingreso_Dos tercios muslo inferior_MII_3
+50,3219_Alta_Dos tercios muslo inferior_MID_1
+51,3220_Alta_Dos tercios muslo inferior_MII_1
+52,3221_Alta_Dos tercios muslo inferior_MII_1
+53,3224_Ingreso_Dos tercios muslo inferior_MID_1
+54,3224_Ingreso_Dos tercios muslo inferior_MII_1
+55,3225_Ingreso_Dos tercios muslo inferior_MID_1
+56,3226_Ingreso_Dos tercios muslo inferior_MII_1
+57,3305_ingreso_Dos tercios muslo inferior_MID_1
+58,3306_Alta_Dos tercios muslo inferior_MID_3
+59,3306_Alta_Dos tercios muslo inferior_MII_3
+60,3306_Ingreso_Dos tercios muslo inferior_MID_1
+61,3307_Ingreso_Dos tercios muslo inferior_MII_1
+62,3307_Ingreso_Muslo medio_MID_4 2
+63,3307_Ingreso_Muslo medio_MID_4
+64,3308_Alta_Dos tercios muslo inferior_MID_1
+65,3308_Alta_Muslo medio_MII_1 2
+66,3308_Alta_Muslo medio_MII_1
+67,3309_Ingreso_Muslo medio_MID_1
+68,3310_Alta_Muslo medio_MII_1
+69,3311_Ingreso_Dos tercios muslo inferior_MII_1
+70,3312_Alta_Dos tercios muslo inferior_MII_1
+71,3312_Ingreso_Dos tercios muslo inferior_MII_1
+72,3312_Ingreso_Muslo Medio_MII_ 1
+73,3313_Alta_Dos tercios muslo inferior_MID_1
+74,3313_Alta_Dos tercios muslo inferior_MII_1
+75,3313_Alta_Muslo medio_MII_ 1
+76,3313_Ingreso_Dos tercios muslo inferior_MID_1
+77,3313_Ingreso_Muslo medio_MII_1
+78,3314_Ingreso_Dos tercios muslo inferior_MID_1
+79,3314_Ingreso_Muslo medio_MID_1
+80,3314_Ingreso_Muslo medio_MII_2
+81,3317_Ingreso_Dos tercios muslo inferior_MID_1 
+82,3318_Ingreso_Dos tercios muslo inferior_MID_1
+83,3318_Ingreso_Dos tercios muslo inferior_MII_1
+84,3318_Ingreso_Muslo medio_MID_1
+85,3318_Ingreso_Muslo medio_MII_1
+86,3319_Ingreso_Dos tercios muslo inferior_MID_1
+87,3319_Ingreso_Dos tercios muslo inferior_MII_1
+88,3319_Ingreso_Muslo medio_MID_1
+89,3319_Ingreso_Muslo medio_MII_1
+90,3320_Alta_Dos tercios muslo inferior_MID_1
+91,3320_Alta_Dos tercios muslo inferior_MII_1
+92,3320_Ingreso_Dos tercios muslo medio_MID_1
+93,3320_Ingreso_Dos tercios muslo medio_MII_1
+94,3320_Ingreso_Muslo medio_MID_1
+95,3320_Ingreso_Muslo medio_MII_1
+96,3321_Ingreso_Dos tercios muslo medio_MID_1
+97,3321_Ingreso_Dos tercios muslo medio_MII_1
+98,3321_Ingreso_Muslo medio_MII_1
+99,3322_Alta_Dos tercios muslo inferior_MID_1
+100,3322_Alta_Dos tercios muslo inferior_MII_1
+101,3322_Alta_Muslo medio_MID_1
+102,3322_Alta_Muslo medio_MII_1
+103,3322_Ingreso_Dos tercios muslo inferior_MII_1 2
+104,3322_Ingreso_Dos tercios muslo inferior_MII_1
+105,3322_Ingreso_Muslo medio_MID_1
+106,3322_Ingreso_Muslo medio_MII_1
+107,3323_Alta_Dos tercios muslo inferior_MID_1
+108,3323_Alta_Dos tercios muslo inferior_MII_1
+109,3323_Alta_Muslo medio_MID_1
+110,3323_Alta_Muslo medio_MII_1 2
+111,3323_Alta_Muslo medio_MII_1
+112,3323_Ingreso_Dos tercios muslo inferior_MID_1
+113,3323_Ingreso_Dos tercios muslo inferior_MII_1
+114,3323_Ingreso_Muslo medio_MID_1
+115,3323_Ingreso_Muslo medio_MII_1
+116,3324_Ingreso_Dos tercios muslo inferior_MID_1
+117,3324_Ingreso_Dos tercios muslo inferior_MII_1
+118,3324_Ingreso_Muslo medio_MID_1
+119,3324_Ingreso_Muslo medio_MII_2
+120,3325_Alta_Dos tercios muslo inferior_MID_2
+121,3325_Alta_Dos tercios muslo inferior_MII_1
+122,3325_Ingreso_Dos tercios muslo inferior_MID_1
+123,3327_Alta_Dos tercios muslo inferior_MII_1
+124,3327_Ingreso_Dos tercios muslo inferior_MII_1 2
+125,2908_Alta_Dos tercios muslo inferior_MII_1
+126,2907_ingreso_Dos tercios muslo inferior_MII_2
+127,2909_Ingreso_Dos tercios muslo inferior_MID_3
+128,2909_Ingreso_Dos tercios muslo inferior_MID_7
+129,2910_Alta_Dos tercios muslo inferior_MII_4
+130,2912_Alta_Dos tercios muslo inferior_MII_2
+131,2912_Alta_Muslo medio_MID_2
+132,2912_Alta_Muslo medio_MII_2
+133,2913_Ingreso_Dos tercios muslo inferior_MII_1
+134,2914_Alta_Dos tercios muslo inferior_MID_4
+135,2914_Alta_Dos tercios muslo inferior_MII_2
+136,2914_Alta_Muslo medio_MID_3
+137,2914_Ingreso_Dos tercios muslo inferior_MID_2
+138,2914_Ingreso_Dos tercios muslo inferior_MII_2
+139,2915_Alta_Dos tercios muslo inferior_MID_2
+140,2915_Alta_Dos tercios muslo inferior_MII_3
+141,2915_Ingreso_Dos tercios muslo inferior_MID_2
+142,2917_Ingreso_Muslo medio_MID_2
+143,2917_Ingreso_Muslo medio_MII_3
+144,2919_Alta_Dos tercios muslo inferior_MII_2
+145,2919_Alta_Muslo medio_MID_4
+146,2919_Alta_Muslo medio_MII_4
+147,2919_Ingreso_Dos tercios muslo inferior_MII_1
+148,2920_Ingreso_Muslo medio_MID_3
+149,2920_Ingreso_Muslo medio_MII_6
+150,2921_Ingreso_Dos tercios muslo_MII_2
+151,2921_Ingreso_Muslo medio_MID_4
+152,2921_Ingreso_Muslo medio_MII_2
+153,2922_Alta_Dos tercios muslo inferior_MID_3
+154,2922_Alta_Dos tercios muslo inferior_MII_1
+155,2922_Ingreso_Dos tercios muslo inferior_MID_2
+156,2922_Ingreso_Muslo medio_MID_2
+157,2923_Alta_Dos tercios muslo inferior_MID_2
+158,2923_Alta_Dos tercios muslo inferior_MII_2
+159,2923_Alta_Muslo medio_MID_3
+160,2923_Alta_Muslo medio_MII_2
+161,2923_Ingreso_Dos tercios muslo inferior_ MID_2
+162,2923_Ingreso_Muslo medio_MID_3
+163,2923_Ingreso_Muslo medio_MII_4
+164,2924_Ingreso_Dos tercios muslo inferior_MII_2
+165,2924_Ingreso_Muslo medio_MID_2
+166,2924_Ingreso_Muslo medio_MII_4
+167,2925_Alta_Muslo medio_MII_3
+168,2926_Alta_Dos tercios muslo inferior_MID_4
+169,2926_Ingreso_Dos tercios muslo inferior_MID_2
+170,2926_Ingreso_Dos tercios muslo inferior_MII_2
+171,2926_Ingreso_Muslo medio_MII_3
+172,2927_Alta_Dos tercios muslo inferior_MID_2
+173,2927_Alta_Muslo medio_MID_3
+174,2927_Ingreso_Dos tercios muslo inferior_MID_3
+175,2927_Ingreso_Dos tercios muslo inferior_MII_2
+176,2927_Ingreso_Muslo medio_MII_4
+177,2928_Ingreso_Dos tercios muslo inferior_MID_3
+178,2929_Alta_Dos tercios muslo inferior_MID_3
+179,2929_Alta_Dos tercios muslo inferior_MII_3
+180,2929_Alta_Muslo medio_MID_3
+181,2929_Alta_Muslo medio_MII_4
+182,2929_Ingreso_Dos tercios muslo inferior_MII_3
+183,2929_Ingreso_Muslo medio_MID_2
+184,2930_Alta_Dos tercios muslo inferior_MID_8
+185,2930_Alta_Muslo medio_MII_4
+186,2930_Ingreso_Dos tercios muslo inferior_MII_3
+187,2930_Ingreso_Muslo medio_MID_4
+188,2930_Ingreso_Muslo medio_MII_4
+189,2931_Alta_Dos tercios muslo inferior_MII_2
+190,2931_Ingreso_Muslo medio_MID_4
+191,2931_Ingreso_Muslo medio_MII_4
+192,2932_Alta_Dos tercios muslo medio_MID_2
+193,2932_Alta_Muslo medio_MID_3
+194,2932_Alta_Muslo medio_MII_4
+195,2932_Ingreso_Dos tercios muslo inferior_MID_2
+196,2932_Ingreso_Dos tercios muslo inferior_MII_2
+197,2932_Ingreso_Muslo medio_MID_4
+198,2932_Ingreso_Muslo medio_MII_4
+199,2933_Ingreso_Dos tercios muslo inferior_MID_2
+200,2933_Ingreso_Dos tercios muslo inferior_MII_2
+201,2933_Ingreso_Muslo medio_MID_3
+202,2933_Ingreso_Muslo medio_MII_4
+203,3001_Alta_Dos tercios muslo inferior_MID_1
+204,3001_Alta_Dos tercios muslo inferior_MII_1
+205,3002_Alta_Dos tercios muslo inferior_MID_5
+206,3002_Ingreso_Dos tercios muslo inferior_MID_1
+207,3002_Ingreso_Dos tercios muslo inferior_MII_1
+208,3003_Alta_Dos tercios muslo inferior_MII_1
+209,3003_Ingreso_Dos tercios muslo inferior_MII_1
+210,3003_Ingreso_Muslo medio_MII_3
+211,3004_Alta_Dos tercios muso inferior_MID_1
+212,3004_Alta_Dos tercios muso inferior_MII_1
+213,3004_Ingreso_Dos tercios muslo inferior_MII_1
+214,3006_Alta_Dos tercios muslo inferior_MID_1
+215,3006_Alta_Dos tercios muslo inferior_MII_1
+216,3006_Ingreso_Dos tercios muslo inferior_MII_1
+217,3007_Alta_Muslo medio_MID_1
+218,3007_Ingreso_Dos tercios muslo inferior_MID_1
+219,3007_Ingreso_Dos tercios muslo inferior_MII_1
+220,3008_Alta_Muslo medio_MID_1
+221,3008_Alta_Muslo medio_MII_1
+222,3008_Ingreso_Dos tercios muslo inferior_MID_1
+223,3008_Ingreso_Dos tercios muslo inferior_MII_1
+224,3009_Ingreso_Muslo medio_MII_1
+225,3010_Alta_Muslo medio_MID_1
+226,3010_Alta_Muslo medio_MII_1
+227,3010_Ingreso_Muslo medio_MID_1
+228,3010_Ingreso_Muslo medio_MII_1
+229,3011_Alta_Dos tercios muslo inferior_MID_1
+230,3011_Alta_Dos tercios muslo inferior_MII_1
+231,3011_Ingreso_Muslo medio_MID_1
+232,3011_Ingreso_Muslo medio_MII_1
+233,3012_Ingreso_Dos tercios muslo inferior_MID_1
+234,3012_Ingreso_Dos tercios muslo inferior_MII_1
+235,3013_Alta_Muslo medio_MID_1
+236,3013_Alta_Muslo medio_MII_1
+237,3013_Ingreso_Dos tercios muslo inferior_MID_1
+238,3013_Ingreso_Dos tercios muslo inferior_MII_1
+239,3014_Alta_Muslo medio_MID_2
+240,3014_Alta_Muslo medio_MII_1
+241,3014_Ingreso_Muslo medio_MID_1
+242,3014_Ingreso_Muslo medio_MII_1
+243,3015_Alta_Dos tercios muslo inferior_MID_1
+244,3015_Alta_Dos tercios muslo inferior_MII_1
+245,3015_Ingreso_Dos tercios muslo inferior_MID_2
+246,3016_Alta_Dos tercios muslo inferior_MID_1
+247,3016_Alta_Dos tercios muslo inferior_MII_2
+248,3016_Alta_Muslo medio_MID_2
+249,3016_Alta_Muslo medio_MII_3
+250,3016_Ingreso_Dos tercios muslo inferior_MII_1
+251,3016_Ingreso_Muslo medio_MID_4
+252,3016_Ingreso_Muslo medio_MII_2
+253,3017_Alta_Dos tercios muslo inferior_MID_3
+254,3017_Alta_Dos tercios muslo inferior_MII_2
+255,3017_Alta_Muslo medio_MID_2
+256,3017_Alta_Muslo medio_MII_1
+257,3017_Ingreso_Dos tercios muslo inferior_MID_1
+258,3017_Ingreso_Dos tercios muslo inferior_MII_1
+259,3017_Ingreso_Muslo medio_MID_5
+260,3017_Ingreso_Muslo medio_MII_4
+261,3018_Alta_Dos tercios muslo inferior_MID_1
+262,3018_Alta_Dos tercios muslo inferior_MII_1
+263,3018_Alta_Muslo medio_MII_1
+264,3018_Ingreso_Muslo medio_MID_1
+265,3019_Alta_Dos tercios muslo inferior_MID_2
+266,3019_Alta_Muslo medio_MII_1
+267,3019_Ingreso_Dos tercios muslo inferior_MII_1
+268,3019_Ingreso_Muslo medio_MID_2
+269,3019_Ingreso_Muslo medio_MII_2
+270,3020_Alta_Dos tercios muslo inferior_MID_1
+271,3020_Alta_Dos tercios muslo inferior_MII_1
+272,3020_Alta_Muslo medio_MII_1
+273,3020_Ingreso_Dos tercios muslo inferior_MII_1
+274,3020_Ingreso_Muslo medio_MID_3
+275,3020_Ingreso_Muslo medio_MII_2
+276,3021_Alta_Dos tercios muslo inferior_MID_1
+277,3021_Alta_Muslo medio_MID_1
+278,3021_Ingreso_Dos tercios muslo inferior_MID_1
+279,3021_Ingreso_Dos tercios muslo inferior_MII_1
+280,3021_Ingreso_Muslo medio_MID_1
+281,3021_Ingreso_Muslo medio_MII_1
+282,3022_Alta_Dos tercios muslo inferior_MID_2
+283,3022_Alta_Muslo medio_MID_1
+284,3022_Ingreso_Dos tercios muslo inferior_MID_1
+285,3022_Ingreso_Dos tercios muslo inferior_MII_3
+286,3022_Ingreso_Muslo medio_MII_1
+287,3023_Alta_Dos tercios muslo inferior_MID_1
+288,3023_Alta_Dos tercios muslo inferior_MII_2
+289,3023_Alta_Muslo medio_MID_1
+290,3023_Ingreso_Dos tercios muslo inferior_MID_1
+291,3023_Ingreso_Dos tercios muslo inferior_MII_2
+292,3106_alta_muslo medio_MII_2
+293,3205_Ingreso_Dos tercios muslo inferior_MII_1
+294,3225_Ingreso_Dos tercios muslo inferior_MII_1
+295,3305_Alta_Dos tercios muslo inferior_MID_1
+296,3305_Alta_Dos tercios muslo inferior_MII_1
+297,3305_Ingreso_Muslo medio_MID_2
+298,3305_ingreso_Dos tercios muslo inferior_MII_2 
+299,3306_Ingreso_Muslo medio_MID_1
+300,3307_Ingreso_Dos tercios muslo inferior_MID_1 2
+301,3307_Ingreso_Dos tercios muslo inferior_MID_1
+302,3307_Ingreso_Muslo medio_MII_2
+303,3308_Alta_Dos tercios muslo inferior_MII_1
+304,3308_Alta_Muslo medio_MID_1 2
+305,3308_Alta_Muslo medio_MID_1
+306,3308_Ingreso_dos tercios muslo inferior_MID_1
+307,3308_Ingreso_dos tercios muslo inferior_MII_1
+308,3308_Ingreso_dos tercios muslo inferior_MII_6
+309,3309_Alta_Dos tercios muslo inferior_MII_1
+310,3309_Alta_Muslo medio_MID_1
+311,3309_Alta_Muslo medio_MII_2
+312,3309_Ingreso_Dos tercios muslo inferior_MID_2
+313,3309_Ingreso_Dos tercios muslo inferior_MII_2
+314,3310_Alta_Muslo medio_MID_1
+315,3310_Ingreso_Dos tercios muslo inferior_MII_3
+316,3310_Ingreso_Muslo medio_MID_1
+317,3310_Ingreso_Muslo medio_MII_3
+318,3311_Ingreso_Dos tercios muslo inferior_MID_1
+319,3311_Ingreso_Muslo medio_MID_1
+320,3311_Ingreso_Muslo medio_MII_1
+321,3312_Alta_Dos tercios muslo inferior_MID_1
+322,3312_Ingreso_Dos tercios muslo inferior_MID_1
+323,3312_Ingreso_Muslo Medio_MID_1
+324,3313_Ingreso_Dos tercios muslo inferior_MII_3
+325,3322_Ingreso_Dos tercios muslo inferior_MID_1 2
+326,3322_Ingreso_Dos tercios muslo inferior_MID_1
+327,3327_Alta_Dos tercios muslo inferior_MID_1 2
+328,3327_Alta_Dos tercios muslo inferior_MID_1
+329,3327_Ingreso_Dos tercios muslo inferior_MID_1
+330,3327_Ingreso_Dos tercios muslo inferior_MII_1
+331,3327_Ingreso_Muslo medio_MII_1
+332,3328_Ingreso_Dos tercios muslo inferior_MII_1
+333,3329_Alta_Dos tercios muslo inferior_MID_1
+334,3329_Alta_Dos tercios muslo inferior_MII_1
+335,3329_Ingreso_Dos tercios muslo inferior_MID_3
+336,3329_Ingreso_Dos tercios muslo inferior_MII_1
+337,3330_Ingreso_Dos tercios muslo inferior_MID_ 1
+338,2909_Alta_Dos tercios muslo inferior_MII_3
+339,2909_Ingreso_Dos tercios muslo inferior_MII_4
+340,2910_Alta_Muslo medio_MID_2
+341,2910_Ingreso_Dos tercios muslo inferior_MID_3
+342,2910_Ingreso_Muslo medio_MII_3
+343,2911_Ingreso_Dos tercios muslo inferior_MID_2
+344,2911_Ingreso_Dos tercios muslo inferior_MII_2
+345,2911_Ingreso_Muslo medio_MII_3
+346,2912_Ingreso_Muslo medio_MII_2
+347,2912_Ingreso_Dos tercios muslo inferior_MID_2
+348,2913_Alta_Muslo medio_MII_3
+349,2913_Alta_Muslo medio_MID_1
+350,2913_Ingreso_Muslo medio_MID_2
+351,2914_Ingreso_Muslo medio_MID_3
+352,2915_Alta_Muslo medio_MID_2
+353,2915_Ingreso_Muslo medio_MID_2
+354,2917_Ingreso_Dos tercios muslo medio_MII_2
+355,2918_Ingreso_Muslo medio_MII_3
+356,2919_Ingreso_Muslo medio_MID_2
+357,2919_Ingreso_Muslo medio_MII_1
+358,2922_Alta_Muslo medio_MID_4
+359,2922_Alta_Muslo medio_MII_3
+360,2923_Ingreso_Dos tercios muslo inferior_MII_2
+361,2924_Alta_Muslo medio_MII_3
+362,2925_Alta_Muslo medio_MID_4
+363,2925_Ingreso_Dos tercios muslo inferior_MID_3
+364,2925_Ingreso_Dos tercios muslo inferior_MII_3
+365,2925_Ingreso_Muslo medio_MID_2
+366,2925_Ingreso_Muslo medio_MII_3
+367,2927_Alta_Muslo medio_MII_3
+368,2926_Ingreso_Muslo medio_MID_3
+369,2928_Alta_Dos tercios muslo inferior_MID_2
+370,2928_Alta_Dos tercios muslo inferior_MII_2
+371,2928_Alta_Muslo medio_MID_3
+372,2928_Ingreso_Dos tercios muslo inferior_MII_3
+373,2928_Ingreso_Muslo medio_MID_4
+374,2928_Ingreso_Muslo medio_MII_4
+375,2929_Ingreso_Dos tercios muslo inferior_MID_3
+376,2929_Ingreso_Muslo medio_MII_4
+377,2931_Alta_Dos tercios muslo inferior_MID_2
+378,2931_Alta_Muslo medio_MID_4
+379,2931_Alta_Muslo medio_MII_4
+380,3003_Alta_Dos tercios muslo inferior_MID_1
+381,3009_Ingreso_Muslo medio_MID_1
+382,3016_Ingreso_Dos tercios muslo inferior_MID_3
+383,3018_Alta_Muslo medio_MID_1
+384,3018_Ingreso_Muslo medio_MII_1
+385,3019_Alta_Dos tercios muslo inferior_MII_1
+386,3019_Alta_Muslo medio_MID_1
+387,3021_Alta_Muslo medio_MII_1
+388,3022_Ingreso_Muslo medio_MID_1
+389,3023_Ingreso_Muslo medio_MID_2
+390,3023_Ingreso_Muslo medio_MII_2
+391,3202_Ingreso_Dos tercios muslo inferior_MID_1
+392,3202_Ingreso_Dos tercios muslo inferior_MII_1
+393,3202_Ingreso_Muslo medio_MID_1
+394,3202_Ingreso_Muslo medio_MII_1
+395,3205_Ingreso_Muslo medio_MID_1
+396,3205_Ingreso_Muslo medio_MII_1
+397,3206_Ingreso_Dos tercios muslo inferior_MID_1
+398,3206_Ingreso_Dos tercios muslo inferior_MII_1
+399,3206_Ingreso_Muslo medio_MID_1
+400,3206_Ingreso_Muslo medio_MII_1
+401,3207_Ingreso_Dos tercios muslo inferior_MID_1
+402,3207_Ingreso_Dos tercios muslo inferior_MII_1
+403,3207_Ingreso_Muslo medio_MID_1
+404,3207_Ingreso_Muslo medio_MII_1
+405,3208_Ingreo_Muslo medio_MID_1
+406,3208_Ingreso_Dos tercios muslo inferior_MID_1
+407,3208_Ingreso_Dos tercios muslo inferior_MII_1
+408,3208_Ingreso_Muslo medio_MII_1
+409,3210_Alta_Muslo medio_MID_1
+410,3210_Alta_dos tercios muslo inferior_MID_1
+411,3210_Alta_dos tercios muslo inferior_MII_1
+412,3210_Alta_muslo medio_MII_1
+413,3210_Ingreso_Dos tercios  muslo inferior_MII_1
+414,3210_Ingreso_Dos tercios muslo inferior_MID_1
+415,3211_Alta_dos tercios muslo inferior_MID_1
+416,3211_Alta_dos tercios muslo inferior_MII_1
+417,3211_Alta_muslo medio_MID_1
+418,3211_Alta_muslo medio_MII_1
+419,3211_Ingreso_Dos tercios muslo inferior_MID_1
+420,3211_Ingreso_Dos tercios muslo inferior_MII_1
+421,3211_Ingreso_Muslo medio_MID_1
+422,3211_Ingreso_Muslo medio_MII_1
+423,3212_Alta_dos tercios muslo inferior_MID_1
+424,3212_Alta_dos tercios muslo inferior_MII_1
+425,3212_Alta_muslo medio_MID_1
+426,3212_Alta_muslo medio_MII_1
+427,3212_Ingreso_Dos tercios muslo inferior_MID_1
+428,3212_Ingreso_Dos tercios muslo inferior_MII_1
+429,3212_Ingreso_Muslo medio_MID_1
+430,3212_Ingreso_Muslo medio_MII_1
+431,3213_Alta_dos tercios muslo inferior_MID_1
+432,3213_Alta_dos tercios muslo inferior_MII_1
+433,3213_Alta_muslo medio_MID_1
+434,3213_Alta_muslo medio_MII_1
+435,3213_Ingreso_Dos tercios muslo inferior_MID_1
+436,3213_Ingreso_Dos tercios muslo inferior_MII_1
+437,3213_Ingreso_Muslo medio_MID_1
+438,3213_Ingreso_Muslo medio_MII_1
+439,3214_Alta_muslo medio_MID_1
+440,3214_Alta_muslo medio_MII_1
+441,3214_Ingreso_Dos tercios muslo inferior_MID_1
+442,3214_Ingreso_Dos tercios muslo inferior_MII_1
+443,3214_Ingreso_Muslo medio_MID_1 
+444,3214_Ingreso_Muslo medio_MII_1
+445,3215_Alta_Dos tercios muslo inferior_MID_1
+446,3215_Alta_Muslo medio_MID_1
+447,3215_Alta_Muslo medio_MII_1
+448,3215_Ingreso_Muslo medio_MID_1
+449,3215_Ingreso_Muslo medio_MII_1
+450,3216_Alta_Dos tercios muslo inferior_MID_1
+451,3216_Alta_Dos tercios muslo inferior_MII_1
+452,3216_Alta_Muslo medio_MID_1
+453,3216_Alta_Muslo medio_MII_1
+454,3216_Ingreso_Dos tercios muslo inferior_MID_1
+455,3216_Ingreso_Dos tercios muslo inferior_MII_1
+456,3216_Ingreso_Muslo medio_MID_1
+457,3216_Ingreso_Muslo medio_MII_1
+458,3217_Alta_Dos tercios muslo inferior_MID_1
+459,3217_Alta_Dos tercios muslo inferior_MII_1
+460,3217_Ingreso_Dos tercios muslo inferior_MID_1
+461,3217_Ingreso_Dos tercios muslo inferior_MII_1
+462,3217_Ingreso_Muslo medio_MID_1
+463,3217_Ingreso_Muslo medio_MII_1
+464,3218_Ingreso_Muslo medio_MID_1
+465,3218_Ingreso_Muslo medio_MII_1
+466,3219_Alta_Dos tercios muslo inferior_MII_1
+467,3219_Ingreso_Dos tercios  muslo inferior_MID_1
+468,3219_Ingreso_Dos tercios muslo inferior_MII_1
+469,3219_Ingreso_Muslo medio_MID_1
+470,3219_Ingreso_Muslo medio_MII_1
+471,3220_Alta_Dos tercios muslo inferior_MID_1
+472,3220_Ingreso_Dos tercios muslo inferior_MID_1
+473,3220_Ingreso_Dos tercios muslo inferior_MII_1
+474,3220_Ingreso_Muslo medio_MID_1
+475,3220_Ingreso_Muslo medio_MII_1
+476,3221_Alta_Dos tercios muslo inferior_MID_1
+477,3221_Ingreso_Dos tercios muslo inferior_MID_1
+478,3221_Ingreso_Dos tercios muslo inferior_MII_1
+479,3221_Ingreso_Muslo medio_MID_1
+480,3221_Ingreso_Muslo medio_MII_1
+481,3222_Ingreso_Dos tercios muslo inferior_MID_1
+482,3222_Ingreso_Dos tercios muslo inferior_MII_1
+483,3222_Ingreso_Muslo medio_MID_1
+484,3222_Ingreso_Muslo medio_MII_1
+485,3224_Ingreso_Muslo medio_MID_1
+486,3224_Ingreso_Muslo medio_MII_1
+487,3225_Ingreso_Muslo medio_MID_1
+488,3225_Ingreso_Muslo medio_MII_1
+489,3226_Ingreso_Muslo medio_MII_1
+490,3305_Ingreso_Muslo medio_MII_1
+491,3306_Alta_Muslo medio_MII_1
+492,3306_Ingreso_Dos tercios muslo inferior_MII_1
+493,3306_Ingreso_Muslo medio_MII_1
+494,3307_Alta_Dos tercios muslo inferior_MID_4
+495,3307_Alta_Dos tercios muslo inferior_MII_1
+496,3307_Alta_Muslo medio_MID_1
+497,3307_Alta_Muslo medio_MII_1
+498,3308_Ingreso_Muslo medio_MID_1
+499,3309_Alta_Dos tercios muslo inferior_MID_1 2
+500,3309_Alta_Dos tercios muslo inferior_MID_1
+501,3310_Ingreso_Dos tercios muslo inferior_MID_1
+502,3312_Alta_Muslo medio_MID_1
+503,3313_Alta_Muslo medio_MID_ 1
+504,3313_Ingreso_Muslo medio_MID_1
+505,3314_Alta_Muslo medio_MII_1
+506,3314_Ingreso_Dos tercios muslo inferior_MII_1
+507,3315_Ingreso_Dos tercios muslo inferior_MID_3
+508,3315_Ingreso_Dos tercios muslo inferior_MII_1
+509,3315_Ingreso_Muslo medio_MID_1
+510,3315_Ingreso_Muslo medio_MII_1
+511,3316_Ingreso_Dos tercios muslo inferior_MID_1
+512,3316_Ingreso_Dos tercios muslo inferior_MII_1
+513,3316_Ingreso_Muslo medio_MID_1
+514,3317_Ingreso_Dos tercios muslo inferior_MII_1
+515,3317_Ingreso_Muslo medio_MID_4
+516,3317_Ingreso_Muslo medio_MII_4
+517,3318_Alta_Dos tercios muslo inferior_MID_1
+518,3318_Alta_Muslo medio_MID_1
+519,3318_Ata_Dos tercios muslo inferior_MII_1
+520,3319_Alta_Dos tercios muslo inferior_MID_1
+521,3319_Alta_Muslo medio_MID_1
+522,3319_Alta_Muslo medio_MII_1
+523,3320_Alta_Muslo medio_MID_1
+524,3320_Alta_Muslo medio_MII_1
+525,3321_Alta_Dos tercios muslo inerior_MID_1
+526,3321_Alta_Dos tercios muslo inerior_MII_1
+527,3321_Alta_Muslo medio_MID_1
+528,3321_Alta_Muslo medio_MII_1
+529,3321_Ingreso_Muslo medio_MID_1
+530,3325_Alta_Muslo medio_MID_1
+531,3325_Alta_Muslo medio_MII_1
+532,3325_Ingreso_Muslo medio_MID_1
+533,3325_Ingreso_Muslo medio_MII_1
+534,3326_Alta_Dos tercios muslo inferior_MID_1
+535,3326_Alta_Muslo medio_MID_1
+536,3326_Alta_Muslo medio_MII_1
+537,3326_Ingreso_Dos tercios muslo inferior_MID_1
+538,3326_Ingreso_Dos tercios muslo inferior_MII_1
+539,3326_Ingreso_Muslo medio_MID_1
+540,3326_Ingreso_Muslo medio_MII_1
+541,3327_Alta_Muslo medio_MID_1
+542,3327_Ingreso_Muslo medio_MID_1
+543,3328_Ingreso_Dos tercios muslo inferior_MID_1
+544,3329_Alta_Muslo medio_MID_1
+545,3329_Alta_Muslo medio_MII_1
+546,3329_Ingreso_Muslo medio_MID_1
+547,3330_Ingreso_Dos tercios muslo inferior_MII_ 1
+548,3330_Ingreso_Muslo medio_MID_1
